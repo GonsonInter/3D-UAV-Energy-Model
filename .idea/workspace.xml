@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b64d774-1be9-4ebe-82c4-d11dc79e7e63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcRSB5VKXQx4px4nHiCCeymbJF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJ Projects\3D Energy Model" />
+      <recent name="E:\IntelliJ Projects\3D Energy Model\src" />
+      <recent name="E:\IntelliJ Projects\3D Energy Model\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.genWidgetPath">
+    <configuration name="CalculateCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculateCost" />
+      <module name="3D Energy Model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tspc.Main" />
+      <module name="3D Energy Model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tspc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="3D Energy Model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="genWidgetPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genWidgetPath" />
+      <module name="3D Energy Model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shishi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shishi" />
+      <module name="3D Energy Model" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CalculateCost" />
+      <item itemvalue="Application.genWidgetPath" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.shishi" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.genWidgetPath" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.shishi" />
+        <item itemvalue="Application.CalculateCost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b64d774-1be9-4ebe-82c4-d11dc79e7e63" name="Default Changelist" comment="" />
+      <created>1583239893859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583239893859</updated>
+      <workItem from="1583239898287" duration="981000" />
+      <workItem from="1583303250525" duration="13120000" />
+      <workItem from="1583373767635" duration="11817000" />
+      <workItem from="1583410301712" duration="7660000" />
+      <workItem from="1583460539966" duration="14557000" />
+      <workItem from="1583495811893" duration="219000" />
+      <workItem from="1583496300745" duration="2453000" />
+      <workItem from="1583546832615" duration="407000" />
+      <workItem from="1583547496763" duration="8963000" />
+      <workItem from="1583805118550" duration="513000" />
+      <workItem from="1583806442501" duration="22802000" />
+      <workItem from="1583888152397" duration="20913000" />
+      <workItem from="1583979048631" duration="39406000" />
+      <workItem from="1584087269032" duration="5212000" />
+      <workItem from="1584242783453" duration="5234000" />
+      <workItem from="1584276686413" duration="890000" />
+      <workItem from="1584328814548" duration="1426000" />
+      <workItem from="1584342541537" duration="137000" />
+      <workItem from="1584457947028" duration="595000" />
+      <workItem from="1584491093512" duration="12679000" />
+      <workItem from="1584582838910" duration="20196000" />
+      <workItem from="1584668047783" duration="16677000" />
+      <workItem from="1584960569797" duration="8342000" />
+      <workItem from="1585123021156" duration="9000" />
+      <workItem from="1585800125286" duration="846000" />
+      <workItem from="1585805903164" duration="494000" />
+      <workItem from="1585809537057" duration="31000" />
+      <workItem from="1585809697151" duration="733000" />
+      <workItem from="1585811737668" duration="28578000" />
+      <workItem from="1585874982679" duration="25965000" />
+      <workItem from="1585961770373" duration="18788000" />
+      <workItem from="1586236269046" duration="600000" />
+      <workItem from="1586349283806" duration="29000" />
+      <workItem from="1586428863729" duration="63000" />
+      <workItem from="1586669945461" duration="4335000" />
+      <workItem from="1586734931262" duration="22545000" />
+      <workItem from="1587777550297" duration="19046000" />
+      <workItem from="1587873858742" duration="1911000" />
+      <workItem from="1587907915249" duration="200000" />
+      <workItem from="1587985012066" duration="2177000" />
+      <workItem from="1588306429193" duration="18709000" />
+      <workItem from="1588341560096" duration="1058000" />
+      <workItem from="1588342677235" duration="562000" />
+      <workItem from="1588343273266" duration="4440000" />
+      <workItem from="1588349938820" duration="768000" />
+      <workItem from="1588377171343" duration="2469000" />
+      <workItem from="1588395828053" duration="17758000" />
+      <workItem from="1588663127161" duration="5194000" />
+      <workItem from="1588985843556" duration="2994000" />
+      <workItem from="1589347959351" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1585809563484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1585809563484" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588348201988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588348201988" />
+    <state x="509" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585889666952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585889666952" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588339949915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1588339949915" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584699651815">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1584699651815" />
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584591692363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="297" width="439" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1584591692363" />
+    <state x="523" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588671102477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1588671102477" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586734944812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586734944812" />
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom" timestamp="1588671388541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588671388541" />
+    <state width="1493" height="308" key="GridCell.Tab.0.center" timestamp="1588671388541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588671388541" />
+    <state width="1493" height="308" key="GridCell.Tab.0.left" timestamp="1588671388541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588671388541" />
+    <state width="1493" height="308" key="GridCell.Tab.0.right" timestamp="1588671388541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588671388541" />
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom" timestamp="1588671388542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588671388542" />
+    <state width="1493" height="308" key="GridCell.Tab.1.center" timestamp="1588671388542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588671388542" />
+    <state width="1493" height="308" key="GridCell.Tab.1.left" timestamp="1588671388541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588671388541" />
+    <state width="1493" height="308" key="GridCell.Tab.1.right" timestamp="1588671388542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="308" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588671388542" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1588349289158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588349289158" />
+    <state x="499" y="177" key="extract.method.dialog" timestamp="1586015044643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="177" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1586015044643" />
+    <state x="447" y="11" width="642" height="801" key="find.popup" timestamp="1584699797449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="642" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584699797449" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585819865978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585819865978" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/3D_Energy_Model$Test.ic" NAME="Test Coverage Results" MODIFIED="1588477388244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
